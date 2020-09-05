@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(0, 143, 190);
+  }
+  
+  h1 {
+    color: lightgoldenrodyellow;
+    text-align: center;
+  }
+  
+  p {
+    outline: #FFFFFF double 20px;
+    font-family: verdana;
+    font-size: 20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+  
